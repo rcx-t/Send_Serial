@@ -1,0 +1,13 @@
+# Ignore files:
+*.zip
+*.pdf
+*.bat
+bkp/**
+**/Doxyfile
+**/NULL
+**/*.dok
+
+# Ignore web shortcuts:
+*.url
+*.website
+*.lnk
