@@ -1,4 +1,4 @@
-## Send_Serial<a name="TOP"></a>
+## Send_Serial<a name="TOP"></a> <img src="./Arduino/doxy/SIflag.gif" alt="Slovenija" style="float: right; height: 25px;"> <img src="./PlatformIO/doxy/PIO.png" alt="PlatformIO" style="float; height: 26px; padding-left: 10px;"> <img src="./Arduino/doxy/arduino.png" alt="Arduino" style="float; height: 26px; padding-left: 10px;"> 
 Send serial messages every 2 seconds from Arduino NANO
 - - - -
 #### Same code for:
